@@ -7,7 +7,7 @@
 ## 系统环境
 
 - 本项目测试于Python3.9
-- 使用到的库详见[requirements.txt](https://github.com/careless-lu/CT-image-annotation/blob/main/requirements.txt)文件，其中由于使用了SNN的encoder用于对事件模态信息进行编码，所以需要配置SNN的优化器
+- 使用到的库详见[requirements.txt]()文件，其中由于使用了SNN的encoder用于对事件模态信息进行编码，所以需要配置SNN的优化器
 - 相机使用DAVIS346 Mono，同时输出帧和事件信息（但帧信息是灰度的，不是RGB的）
 
 ## 训练数据
